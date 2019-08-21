@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: tarefaDoCaverna
+  datasource:
+    url: jdbc:mysql://localhost:3306/tarefa
+    username: root
+    password: root
+
+server:
+  port: 8080
